@@ -1,0 +1,6 @@
+.car{transition: box-shadow .3s;
+ 
+    border-radius:10px;
+  &:hover{  box-shadow: 0 0 11px rgba(0, 0, 0, 0.2); }
+  
+  }
